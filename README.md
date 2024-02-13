@@ -1,6 +1,6 @@
 # KotlinApp
 
-![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg)
+![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg)
 
 **Description:**
 
@@ -10,7 +10,7 @@ This project is a simple CRUD application built using Kotlin, Spring Boot, Docke
 
 1. Kotlin
 
-   ![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg)
+   ![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg)
 
 2. Spring Boot
 
